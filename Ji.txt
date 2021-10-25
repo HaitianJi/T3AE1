@@ -1,1 +1,6 @@
 zafra
+<<<<<<< HEAD
+
+=======
+usuari1
+>>>>>>> 64a304b6ac177fde763978dbae21e5b121d3ba2a
